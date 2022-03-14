@@ -13,7 +13,6 @@ local extras = {
 	alacritty = "yml",
 	fish = "fish",
 	kitty = "conf",
-	konsole = "colorscheme",
 	iterm = "itermcolors",
 	tmux = "tmux",
 	wezterm = "lua",

@@ -11,38 +11,44 @@ function M.init()
 
     none       = "NONE",
 
-    black      = "#0F1926",
+    bg         = "#FDFFFC",
+    bg_alt     = "#E4E6E3",
+
+    fg         = "#070A0E",
+    fg_gutter  = "#263140",
+
+    black      = "#123059",
     red        = "#800E13",
     green      = "#0D751B",
     yellow     = "#DED03C",
     blue       = "#1C88CE",
     magenta    = "#C91457",
     cyan       = "#3B8395",
-    white      = "#E4E6E3",
+    white      = "#DAE2E3",
     orange     = "#E66A17",
     pink       = "#D46D8D",
 
     -- +10 brightness, +10 saturation
-    black_br   = "#132640",
+    black_br   = "#0B3773",
     red_br     = "#990209",
     green_br   = "#018F14",
     yellow_br  = "#F7E62A",
     blue_br    = "#098FE8",
     magenta_br = "#E32D70",
     cyan_br    = "#3495AD",
-    white_br   = "#FDFFFC",
+    white_br   = "#F2FBFC",
     orange_br  = "#FF6700",
     pink_br    = "#ED618E",
 
     -- -10 brightness, -10 saturation
-    black_dm   = "#070A0E",
+    black_dm   = "#132640",
     red_dm     = "#661519",
     green_dm   = "#135C1D",
     yellow_dm  = "#C4BA49",
     blue_dm    = "#2B7EB5",
     magenta_dm = "#B02357",
     cyan_dm    = "#3D6E7A",
-    white_dm   = "#CBCCCA",
+    white_dm   = "#C1C8C9",
     orange_dm  = "#CC6A29",
     pink_dm    = "#BA7289",
 
@@ -62,13 +68,7 @@ function M.init()
     },
   }
 
-	colors.bg = colors.black_dm
-	colors.bg_alt = colors.black
 	colors.bg_highlight = util.darken(colors.bg, 0.90)
-
-	colors.fg = colors.white_br
-	colors.fg_alt = util.white
-	colors.fg_gutter = util.darken(colors.bg_alt, 0.90)
 
 	util.bg = colors.bg
 	util.fg = colors.fg

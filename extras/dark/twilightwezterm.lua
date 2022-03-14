@@ -4,18 +4,18 @@
  return {
   force_reverse_video_cursor = true,
   colors = {
-    foreground = "#FDFFFC",
-    background = "#070A0E",
+    foreground = "#070A0E",
+    background = "#FDFFFC",
 
-    cursor_bg = "#FDFFFC",
-    cursor_border = "#FDFFFC",
-    cursor_fg = "#070A0E",
+    cursor_bg = "#070A0E",
+    cursor_border = "#070A0E",
+    cursor_fg = "#FDFFFC",
 
-    selection_bg = "#202226",
-    selection_fg = "#FDFFFC",
+    selection_bg = "#FDFFFC",
+    selection_fg = "#070A0E",
 
-    ansi = { "#0F1926", "#800E13", "#0D751B", "#DED03C", "#1C88CE", "#C91457", "#3B8395", "#E4E6E3" },
-    brights = {"#132640", "#990209", "#018F14", "#F7E62A", "#098FE8", "#E32D70", "#3495AD", "#FDFFFC" },
+    ansi = { "#123059", "#800E13", "#0D751B", "#DED03C", "#1C88CE", "#C91457", "#3B8395", "#DAE2E3" },
+    brights = {"#0B3773", "#990209", "#018F14", "#F7E62A", "#098FE8", "#E32D70", "#3495AD", "#F2FBFC" },
   }
 }
-
+    
