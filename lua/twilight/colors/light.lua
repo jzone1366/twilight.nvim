@@ -94,7 +94,7 @@ function M.init()
 	colors.bg_popup = colors.bg_alt
 	colors.bg_statusline = colors.bg_alt
 
-	colors.bg_sidebar = colors.bg_alt
+	colors.bg_sidebar = colors.bg
 	colors.bg_float = colors.bg_alt
 
 	colors.bg_visual = util.darken(colors.blue, 0.2)
