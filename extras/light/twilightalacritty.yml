@@ -1,0 +1,32 @@
+# Twilight Alacritty Colors
+# Style: twilight_light
+# Upstream: https://github.com/jzone1366/twilight.nvim/raw/main/extra/light/twilightalacritty.yml
+colors:
+  # Default colors
+  primary:
+    background: '0xFDFFFC'
+    foreground: '0x070A0E'
+  # Normal colors
+  normal:
+    black:   '0x0F1926'
+    red:     '0x800E13'
+    green:   '0x0D751B'
+    yellow:  '0xDED03C'
+    blue:    '0x1C88CE'
+    magenta: '0xC91457'
+    cyan:    '0x3B8395'
+    white:   '0xE4E6E3'
+  # Bright colors
+  bright:
+    black:   '0x132640'
+    red:     '0x990209'
+    green:   '0x018F14'
+    yellow:  '0xF7E62A'
+    blue:    '0x098FE8'
+    magenta: '0xE32D70'
+    cyan:    '0x3495AD'
+    white:   '0xFDFFFC'
+  indexed_colors:
+    - { index: 16, color: '0xE66A17' }
+    - { index: 17, color: '0xD46D8D' }
+  

@@ -1,0 +1,10 @@
+--deep-jungle-green: #164846ff;
+--independence: #394b70ff;
+--cordovan: #823c41ff;
+--rosewood: #52050aff;
+--medium-turquoise: #4ecdc4ff;
+--mango-tango: #f5853fff;
+--bittersweet: #ff6b6bff;
+--sunglow: #fdca40ff;
+--carolina-blue: #4ea5d9ff;
+--snow: #fcf7f8ff;

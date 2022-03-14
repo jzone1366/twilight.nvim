@@ -1,0 +1,25 @@
+{
+    "name" : "twilight_dark",
+
+    "background" : "#070A0E",
+    "foreground" : "#FDFFFC",
+
+    "black" : "#0F1926",
+    "blue" : "#1C88CE",
+    "cyan" : "#3B8395",
+    "green" : "#0D751B",
+    "purple" : "#C91457",
+    "red" : "#800E13",
+    "white" : "#E4E6E3",
+    "yellow" : "#DED03C",
+
+    "brightBlack" : "#132640",
+    "brightBlue" : "#098FE8",
+    "brightCyan" : "#3495AD",
+    "brightGreen" : "#018F14",
+    "brightPurple" : "#E32D70",
+    "brightRed" : "#990209",
+    "brightWhite" : "#FDFFFC",
+    "brightYellow" : "#F7E62A"
+},
+  
