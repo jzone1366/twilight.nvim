@@ -1,8 +1,8 @@
 {
     "name" : "twilight_dark",
 
-    "background" : "#FDFFFC",
-    "foreground" : "#070A0E",
+    "background" : "#070A0E",
+    "foreground" : "#FDFFFC",
 
     "black" : "#123059",
     "blue" : "#1C88CE",

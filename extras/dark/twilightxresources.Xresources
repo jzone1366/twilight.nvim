@@ -1,8 +1,8 @@
 ! Twilight colors for Xresources
 ! Style: twilight_dark
 ! Upstream: https://github.com/jzone1366/twilight.nvim/raw/main/extra/dark/twilightxresources.Xresources
-*background: #FDFFFC
-*foreground: #070A0E
+*background: #070A0E
+*foreground: #FDFFFC
 *color0:  #123059
 *color1:  #800E13
 *color2:  #0D751B

@@ -2,11 +2,11 @@
 # Style: twilight_light
 # Upstream: https://github.com/jzone1366/twilight.nvim/raw/main/extra/light/twilightfish.fish
 set -l foreground 070A0E
-set -l selection E4E6E3
+set -l selection E4E7E4
 set -l comment 91A5C2
 set -l red 800E13
 set -l orange E66A17
-set -l yellow DED03C
+set -l yellow CC9D2F
 set -l green 0D751B
 set -l purple C91457
 set -l cyan 3B8395

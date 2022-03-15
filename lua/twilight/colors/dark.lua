@@ -11,11 +11,11 @@ function M.init()
 
     none       = "NONE",
 
-    bg         = "#FDFFFC",
-    bg_alt     = "#E4E6E3",
+    bg         = "#070A0E",
+    bg_alt     = "#0E1926",
 
-    fg         = "#070A0E",
-    fg_gutter  = "#263140",
+    fg         = "#FDFFFC",
+    fg_gutter  = "#26374D",
 
     black      = "#123059",
     red        = "#800E13",

@@ -1,8 +1,8 @@
 # Twilight Color Palette
 # Style: twilight_dark
 # Upstream: https://github.com/jzone1366/twilight.nvim/raw/main/extra/dark/twilightfish.fish
-set -l foreground 070A0E
-set -l selection FDFFFC
+set -l foreground FDFFFC
+set -l selection 202226
 set -l comment 91A5C2
 set -l red 800E13
 set -l orange E66A17
