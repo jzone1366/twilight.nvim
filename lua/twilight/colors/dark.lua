@@ -69,6 +69,7 @@ function M.init()
   }
 
 	colors.bg_highlight = util.darken(colors.bg, 0.90)
+	colors.fg_alt = util.darken(colors.fg, 0.85, "#000000")
 
 	util.bg = colors.bg
 	util.fg = colors.fg
@@ -99,7 +100,7 @@ function M.init()
 
 	colors.bg_visual = util.darken(colors.blue, 0.2)
 	colors.bg_search = util.darken(colors.cyan, 0.3)
-	colors.fg_sidebar = colors.fg_alt
+	colors.fg_sidebar = colors.fg_gutter
 
 	colors.error = colors.red
 	colors.warning = colors.yellow

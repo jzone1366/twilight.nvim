@@ -26,9 +26,9 @@ set -g status-right-style NONE
 set -g status-left "#[fg=#123059,bg=#1c88ce,bold] #S "
 set -g status-right "#[fg=#1c88ce,bg=#e4e6e3] #{prefix_highlight} #[fg=#1c88ce,bg=#cbccca] %Y-%m-%d | %I:%M %p #[fg=#123059,bg=#1c88ce,bold] #h "
 
-setw -g window-status-activity-style "underscore,fg=${fg_sidebar},bg=#e4e6e3"
+setw -g window-status-activity-style "underscore,fg=#2c2f32,bg=#e4e6e3"
 setw -g window-status-separator ""
-setw -g window-status-style "NONE,fg=${fg_sidebar},bg=#e4e6e3"
+setw -g window-status-style "NONE,fg=#2c2f32,bg=#e4e6e3"
 setw -g window-status-format "#[default] #I | #W #F "
 setw -g window-status-current-format "#[fg=#1c88ce,bg=#cbccca,bold] #I | #W #F "
   
